@@ -1,6 +1,6 @@
 # CineMatch 🎬 - Frontend
 
-![CineMatch Screenshot](https://i.imgur.com/your-screenshot-url.png) **CineMatch ist eine als Progressive Web App (PWA) entwickelte Film-App, die im Rahmen meiner Bachelorarbeit an der Technischen Hochschule Brandenburg entstanden ist. Sie ermöglicht es Nutzern, Filme zu entdecken, zu suchen und Informationen zu Streaming-Anbietern zu finden.**
+**CineMatch ist eine als Progressive Web App (PWA) entwickelte Film-App, die im Rahmen meiner Bachelorarbeit an der Technischen Hochschule Brandenburg entstanden ist. Sie ermöglicht es Nutzern, Filme zu entdecken, zu suchen und Informationen zu Streaming-Anbietern zu finden.**
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
@@ -46,7 +46,7 @@ Um das Projekt lokal auszuführen, folgen Sie diesen Schritten:
 
 1.  **Repository klonen**
     ```sh
-    git clone [https://github.com/dein-username/cinematch-frontend.git](https://github.com/dein-username/cinematch-frontend.git)
+    git clone https://github.com/Timbord/cinematch-frontend.git
     ```
 2.  **Abhängigkeiten installieren**
     ```sh
@@ -54,9 +54,9 @@ Um das Projekt lokal auszuführen, folgen Sie diesen Schritten:
     ```
 3.  **App starten**
     ```sh
-    npm start
+    npm run dev
     ```
-    Die App läuft dann standardmäßig auf `http://localhost:3000`.
+    Die App läuft dann standardmäßig auf `http://localhost:5173`.
 
 ---
 
@@ -64,7 +64,9 @@ Um das Projekt lokal auszuführen, folgen Sie diesen Schritten:
 
 - [React.js](https://reactjs.org/)
 - [React Router](https://reactrouter.com/)
-- [Axios](https://axios-http.com/)
+- [Zustand](https://github.com/pmndrs/zustand)
+- [TailwindCSS](https://tailwindcss.com)
+- [Framer-Motion](https://motion.dev)
 - CSS3 / Styled Components
 
 ---
