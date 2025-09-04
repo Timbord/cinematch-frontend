@@ -73,6 +73,6 @@ Um das Projekt lokal auszuführen, folgen Sie diesen Schritten:
 
 ### Kontakt
 
-Lorenz Karow - [deine-email@gmail.com](mailto:deine-email@gmail.com)
+Lorenz Karow - [lorenzkarow@gmail.com](mailto:lorenzkarow@gmail.com)
 
-Projekt-Link: [https://github.com/dein-username/cinematch-frontend](https://github.com/dein-username/cinematch-frontend)
+Projekt-Link: [https://github.com/Timbord/cinematch-frontend](https://github.com/Timbord/cinematch-frontend)
