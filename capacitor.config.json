@@ -1,0 +1,8 @@
+{
+  "appId": "de.lorenzo.cinematch",
+  "appName": "CineMatch",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "cordova": {}
+}
